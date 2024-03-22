@@ -1,0 +1,4 @@
+/* task 1 : fluid/smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
